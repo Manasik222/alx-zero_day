@@ -1,2 +1,2 @@
-echo "ALX" > bash/alx
-echo echo ALX
+echo "ALX School"> bash/alx
+ echo echoALX School
